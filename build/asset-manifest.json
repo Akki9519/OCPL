@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ee49ca2.css",
+    "main.js": "/static/js/main.83460984.js",
+    "static/media/logo.webp": "/static/media/logo.7a46a285bdbcaed82950.webp",
+    "static/media/ocpl_banner.PNG": "/static/media/ocpl_banner.f9f089e6353925f2df97.PNG",
+    "index.html": "/index.html",
+    "main.9ee49ca2.css.map": "/static/css/main.9ee49ca2.css.map",
+    "main.83460984.js.map": "/static/js/main.83460984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee49ca2.css",
+    "static/js/main.83460984.js"
+  ]
+}
